@@ -44,10 +44,9 @@ Dieses Tool FlashESP8266.exe ist nicht von mir , aber hat schon hevorragende Die
 <img src="Webseite PZEM017 Controller.png" alt="PZEM017 Controller by BavarianSuperGuy"/>
 
 Was kann der ESP8266 PZEM017 Controller :
-Er liest die Daten über Rs485 vom PZEMModul aus : Spannung in Volt, StromLast in Ampere, Leistung in Watt, Energie in kWh
-
-- 
-als payload bei Mqtt für Energyreset den wert true senden
+- Er liest die Daten über Rs485 vom PZEMModul aus : Spannung in Volt, StromLast in Ampere, Leistung in Watt, Energie in kWh
+- Ausgeben tut es die Dtaen am Esp Web UI, http und mqtt interface mit Json payload
+- als payload bei Mqtt für Energyreset den wert true senden
 
 
 RS485 ttl Adapter (2 verschiedene getestet)
