@@ -32,7 +32,7 @@ Internet Explorer wird nicht unterstützt!(die kochen wieder eigenes Sueppchen b
 
 # PZEM017 Controller mit Webseite
 Der Esp8266 ist über ein Rs485 Modul mit dem PZEM-017 verbunden und kann diesem seine Daten entlocken.
-EnergyReset Button in der ESP Web UI: Der kWh Zähler ird zurückgesetzt.
+EnergyReset Button in der ESP Web UI: Der kWh Zähler wird damit zurückgesetzt.
 
 
 
