@@ -100,6 +100,7 @@ CONFIGPORTAL####################################################################
 
 
 Anschluss : A zu A und B zu B
+getestet mit RS485 Modul1
 
 
 Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
