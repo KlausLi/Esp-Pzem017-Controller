@@ -2,6 +2,8 @@ Was nett wäre, Vergesst bitte nicht meinen Kanal zu abonnieren und zu liken ;-)
 
 https://www.youtube.com/c/BavarianSuperGuy
 
+Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
+Hier bitte - https://paypal.me/BSGuy
 
 Ich übernehme keine Haftung für Schäden, die aufgrund der Nutzung 
 der Software entstehen oder entstanden sind. 
@@ -103,7 +105,5 @@ Anschluss : A zu A und B zu B
 getestet mit RS485 Modul1
 
 
-Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
-Hier bitte - https://paypal.me/armerprogrammer
 
 <img src="BastelPlan3000_PZEM017_Controller_by_BavarianSuperGuy.png" alt="PZEM017 Controller by BavarianSuperGuy"/>
