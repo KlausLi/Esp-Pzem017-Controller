@@ -2,7 +2,7 @@ Was nett wäre, Vergesst bitte nicht meinen Kanal zu abonnieren und zu liken ;-)
 
 https://www.youtube.com/c/BavarianSuperGuy
 
-Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
+Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-).
 Hier bitte - https://paypal.me/BSGuy
 
 Ich übernehme keine Haftung für Schäden, die aufgrund der Nutzung 
